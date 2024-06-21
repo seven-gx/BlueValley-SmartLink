@@ -1,0 +1,79 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略所有临时文件
+*.tmp
+
+# 忽略操作系统生成的文件
+.Thumbs.db
+.DS_Store
+
+# 忽略 Eclipse 项目文件
+.project
+.classpath
+.settings/
+
+# 忽略 IntelliJ IDEA 项目文件
+.idea/
+*.iml
+*.iws
+
+# 忽略 NetBeans 项目文件
+.nbproject/
+.netbeans/
+
+# 忽略 Visual Studio 项目文件
+*.sln
+*.vs
+*.vcxproj
+*.vcxproj.filters
+*.vcproj
+*.vbproj
+*.dbproj
+*.sqlproj
+*.fwproj
+*.csproj.user
+*.vbproj.user
+*.fsproj.user
+*.scp
+*.mdf
+*.ldf
+
+# 忽略 Xcode 项目文件
+*.xcuserstate
+xcuserdata/
+
+# 忽略 Maven 项目文件
+target/
+
+# 忽略 Gradle 项目文件
+.gradle/
+build/
+
+# 忽略 Node.js 项目文件
+node_modules/
+
+# 忽略 Yarn 缓存文件
+.yarn/cache
+
+# 忽略 npm 缓存文件
+.npm
+
+# 忽略 TypeScript 缓存文件
+*.tsbuildinfo
+
+# 忽略 MAC 缓存文件
+*.sw?
+
+# 忽略 APT 缓存文件
+*.zi
+
+# 忽略 virtual environment
+venv/
+env/
+.venv/
+.pyvenv/
+
+# 忽略 pip 缓存
+pip-wheel-metadata/
+.cache/
